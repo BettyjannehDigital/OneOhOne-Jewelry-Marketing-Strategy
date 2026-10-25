@@ -24,6 +24,8 @@ All work is based on a live brand with real customers, real Etsy sales, and real
 | [Email 01 - Welcome Promo PDF.pdf](https://github.com/BettyjannehDigital/OneOhOne-Jewelry-Marketing-Strategy/blob/main/Email%2001%20-%20Welcome%20Promo%20PDF.pdf) | Newsletter 1 — Welcome & promotional email (BOFU, new subscribers) |
 | [Email 02 Educational Care Guide PDF.pdf](https://github.com/BettyjannehDigital/OneOhOne-Jewelry-Marketing-Strategy/blob/main/Email%2002%20Educational%20Care%20Guide%20PDF.pdf) | Newsletter 2 — Informational mailer: waist jewelry care guide (MOFU) |
 | [Email 03 - Seasonal New Year Campaign PDF.pdf](https://github.com/BettyjannehDigital/OneOhOne-Jewelry-Marketing-Strategy/blob/main/Email%2003%20-%20Seasonal%20New%20Year%20Campaign%20PDF.pdf) | Newsletter 3 — Seasonal New Year campaign with limited-time offer (BOFU re-engagement) |
+| [Creative Concept Brief - YouTube Ad PDF.pdf](https://github.com/BettyjannehDigital/OneOhOne-Jewelry-Marketing-Strategy/blob/main/Creative%20Concept%20Brief%20-%20YouTube%20Ad%20PDF.pdf) | Creativity and Storytelling for Marketing: 30-second YouTube in-stream ad concept ("You Feel It") mixing phone-filmed live action with AI-generated editorial scenes, with a scene-by-scene breakdown, production approach and campaign goal |
+| [Creative Concept Brief - Teacher Feedback PDF.pdf](https://github.com/BettyjannehDigital/OneOhOne-Jewelry-Marketing-Strategy/blob/main/Creative%20Concept%20Brief%20-%20Teacher%20Feedback%20PDF.pdf) | The teacher's feedback on that brief (strengths and suggestions) and how I applied it |
 | [Paid Advertising Strategy (separate repo)](https://github.com/BettyjannehDigital/Paid-Advertising-Strategy-OneOhOne) | Meta Ads campaign strategy: objective, targeting, creative, KPIs, budget |
 
 ---
@@ -35,6 +37,7 @@ All work is based on a live brand with real customers, real Etsy sales, and real
 - **Email Marketing** — 3-email campaign series mapped to buyer journey (MOFU → BOFU), segmentation strategy, subject line optimisation
 - **Paid Advertising** — Meta Ads strategy with audience targeting, creative brief, KPIs, and budget planning
 - **Content Planning** — Planner board screenshots showing structured campaign workflow
+- **Creative Concepting** — Storytelling structure (hook, tension, transformation, CTA), live-action and AI-generated scene planning, and applying teacher feedback to refine a concept
 - **SMART Goal Setting** — Measurable 12–18 month marketing goals tied to business vision
 
 ---
@@ -71,3 +74,5 @@ All work is based on a live brand with real customers, real Etsy sales, and real
 
 - [Social Media Marketing – OneOhOne Jewelry](https://github.com/BettyjannehDigital/SoMe--Marketing-OneOhOne)
 - [Paid Advertising Strategy – OneOhOne Jewelry](https://github.com/BettyjannehDigital/Paid-Advertising-Strategy-OneOhOne)
+
+*Last updated: 25 October 2026.*
